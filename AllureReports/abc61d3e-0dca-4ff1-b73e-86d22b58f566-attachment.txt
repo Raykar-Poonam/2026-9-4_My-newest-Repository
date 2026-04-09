@@ -1,0 +1,12 @@
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin_Params_.py:18 test_login_TC01 Test Case started
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin_Params_.py:19 Opening webbrowser and Navigating to Swag Labs
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin_Params_.py:22 Entering Username --> standard_user
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin_Params_.py:24 Entering Password --> secret_sauce
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin_Params_.py:26 Clicking Login Button
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin_Params_.py:28 Validating Login Status
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin_Params_.py:32 Actual Result Pass
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin_Params_.py:34 Expected Result Pass
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin_Params_.py:35 Updating TestCase_Status_List as 'PASS'
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin_Params_.py:37 Taking Screenshot
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin_Params_.py:66 ['PASS']
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin_Params_.py:73 test_login_TC01 Test Case is Completed

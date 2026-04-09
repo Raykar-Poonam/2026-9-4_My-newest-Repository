@@ -1,0 +1,9 @@
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin.py:15 test_login_TC01 Test Case started
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin.py:16 Opening webbrowser and Navigating to Swag Labs
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin.py:19 Entering Username --> standard_user
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin.py:21 Entering Password --> secret_sauce
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin.py:23 Clicking Login Button
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin.py:25 Validating Login Status
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin.py:28 Validating Login Status Passed
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin.py:29 Taking TC Pass Screenshot 
+[32mINFO    [0m Test_SwagLogin:test_SwagLogin.py:38 test_login_TC01 Test Case is completed

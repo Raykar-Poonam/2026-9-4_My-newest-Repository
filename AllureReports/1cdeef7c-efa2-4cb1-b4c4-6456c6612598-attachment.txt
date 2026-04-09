@@ -1,0 +1,15 @@
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:18 test_Login_TC01 Test Case is Started
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:19 Opening Browser and Navigating to SwagLab
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:22 Finding the number of Rows in Excel DDT File
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:27 Opening Browser and Navigating to SwagLab
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:29 Fetching Username from Excel File for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:31 Fetching Password from Excel File for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:33 Fetching Expected Result from Excel File for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:35 Entering Username in Swaglab for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:37 Entering Password in Swaglab for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:39 Clicking Login Button in Swaglab for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:44 Actual Login Pass
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:45 Writing Actual Login as Pass in Excel File for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:49 Expected Login Pass
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:50 Updating TestCase_Status_List as Pass
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:52 Taking Pass Screenshot
