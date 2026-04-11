@@ -54,3 +54,59 @@
 2026-04-11 16:43:49,145 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 90 : Taking Pass Screenshot
 2026-04-11 16:43:49,363 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 96 : TestCase_Status_List ['Pass']
 2026-04-11 16:43:49,363 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 103 : test_Login_TC01 Test Case is Completed
+2026-04-11 16:51:38,618 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 18 : test_Login_TC01 Test Case is Started
+2026-04-11 16:51:38,618 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 19 : Opening Browser and Navigating to SwagLab
+2026-04-11 16:51:38,618 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 22 : Finding the number of Rows in Excel DDT File
+2026-04-11 16:51:38,652 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 28 : Opening Browser and Navigating to SwagLab
+2026-04-11 16:51:38,730 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 30 : Fetching Username from Excel File for 2th row
+2026-04-11 16:51:38,738 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 32 : Fetching Password from Excel File for 2th row
+2026-04-11 16:51:38,745 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 34 : Fetching Expected Result from Excel File for 2th row
+2026-04-11 16:51:38,754 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 36 : Entering Username in Swaglab for 2th row
+2026-04-11 16:51:38,886 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 38 : Entering Password in Swaglab for 2th row
+2026-04-11 16:51:38,987 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 40 : Clicking Login Button in Swaglab for 2th row
+2026-04-11 16:51:39,161 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 45 : Actual Login Pass
+2026-04-11 16:51:39,161 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 46 : Writing Actual Login as Pass in Excel File for 2th row
+2026-04-11 16:51:39,197 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 50 : Expected Login Pass
+2026-04-11 16:51:39,197 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 51 : Updating TestCase_Status_List as Pass
+2026-04-11 16:51:39,197 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 53 : Taking Pass Screenshot
+2026-04-11 16:51:39,504 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 96 : TestCase_Status_List ['Pass']
+2026-04-11 16:51:39,504 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 28 : Opening Browser and Navigating to SwagLab
+2026-04-11 16:51:39,606 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 30 : Fetching Username from Excel File for 3th row
+2026-04-11 16:51:39,619 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 32 : Fetching Password from Excel File for 3th row
+2026-04-11 16:51:39,623 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 34 : Fetching Expected Result from Excel File for 3th row
+2026-04-11 16:51:39,626 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 36 : Entering Username in Swaglab for 3th row
+2026-04-11 16:51:39,704 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 38 : Entering Password in Swaglab for 3th row
+2026-04-11 16:51:39,769 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 40 : Clicking Login Button in Swaglab for 3th row
+2026-04-11 16:51:39,867 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 73 : Actual Login Pass
+2026-04-11 16:51:39,867 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 74 : Writing Actual Login as Fail in Excel File for 3th row
+2026-04-11 16:51:39,892 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 87 : Expected Login Fail
+2026-04-11 16:51:39,892 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 88 : Updating TestCase_Status_List as Pass
+2026-04-11 16:51:39,892 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 90 : Taking Pass Screenshot
+2026-04-11 16:51:40,068 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 96 : TestCase_Status_List ['Pass']
+2026-04-11 16:51:40,068 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 28 : Opening Browser and Navigating to SwagLab
+2026-04-11 16:51:40,129 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 30 : Fetching Username from Excel File for 4th row
+2026-04-11 16:51:40,145 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 32 : Fetching Password from Excel File for 4th row
+2026-04-11 16:51:40,149 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 34 : Fetching Expected Result from Excel File for 4th row
+2026-04-11 16:51:40,149 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 36 : Entering Username in Swaglab for 4th row
+2026-04-11 16:51:40,220 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 38 : Entering Password in Swaglab for 4th row
+2026-04-11 16:51:40,265 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 40 : Clicking Login Button in Swaglab for 4th row
+2026-04-11 16:51:40,313 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 73 : Actual Login Pass
+2026-04-11 16:51:40,313 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 74 : Writing Actual Login as Fail in Excel File for 4th row
+2026-04-11 16:51:40,330 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 87 : Expected Login Fail
+2026-04-11 16:51:40,330 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 88 : Updating TestCase_Status_List as Pass
+2026-04-11 16:51:40,330 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 90 : Taking Pass Screenshot
+2026-04-11 16:51:40,498 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 96 : TestCase_Status_List ['Pass']
+2026-04-11 16:51:40,498 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 28 : Opening Browser and Navigating to SwagLab
+2026-04-11 16:51:40,558 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 30 : Fetching Username from Excel File for 5th row
+2026-04-11 16:51:40,571 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 32 : Fetching Password from Excel File for 5th row
+2026-04-11 16:51:40,582 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 34 : Fetching Expected Result from Excel File for 5th row
+2026-04-11 16:51:40,590 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 36 : Entering Username in Swaglab for 5th row
+2026-04-11 16:51:40,650 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 38 : Entering Password in Swaglab for 5th row
+2026-04-11 16:51:40,688 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 40 : Clicking Login Button in Swaglab for 5th row
+2026-04-11 16:51:40,740 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 73 : Actual Login Pass
+2026-04-11 16:51:40,740 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 74 : Writing Actual Login as Fail in Excel File for 5th row
+2026-04-11 16:51:40,748 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 87 : Expected Login Fail
+2026-04-11 16:51:40,748 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 88 : Updating TestCase_Status_List as Pass
+2026-04-11 16:51:40,748 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 90 : Taking Pass Screenshot
+2026-04-11 16:51:40,931 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 96 : TestCase_Status_List ['Pass']
+2026-04-11 16:51:40,931 : INFO : Test_SwagLogin_Excel : test_Login_TC01 : 103 : test_Login_TC01 Test Case is Completed

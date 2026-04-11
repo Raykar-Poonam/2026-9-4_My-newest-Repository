@@ -12,7 +12,7 @@ class Test_SwagLogin_Excel:
     Excel_File_Path = "D:\\Credence\\Tushar Sir\\selenium Part  2\\Project_tusharsir\\Pytest 06\\PythonProject6\\testcases\\Test_Data\\TestData_.xlsx"
     log = Loggen.log_generator()
 
-    @pytest.mark.ddt
+    @pytest.mark.ddtexcel
     def test_Login_TC01(self,setup):
 
         self.log.info("test_Login_TC01 Test Case is Started")

@@ -1,0 +1,56 @@
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:18 test_Login_TC01 Test Case is Started
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:19 Opening Browser and Navigating to SwagLab
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:22 Finding the number of Rows in Excel DDT File
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:28 Opening Browser and Navigating to SwagLab
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:30 Fetching Username from Excel File for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:32 Fetching Password from Excel File for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:34 Fetching Expected Result from Excel File for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:36 Entering Username in Swaglab for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:38 Entering Password in Swaglab for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:40 Clicking Login Button in Swaglab for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:45 Actual Login Pass
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:46 Writing Actual Login as Pass in Excel File for 2th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:50 Expected Login Pass
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:51 Updating TestCase_Status_List as Pass
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:53 Taking Pass Screenshot
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:96 TestCase_Status_List ['Pass']
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:28 Opening Browser and Navigating to SwagLab
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:30 Fetching Username from Excel File for 3th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:32 Fetching Password from Excel File for 3th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:34 Fetching Expected Result from Excel File for 3th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:36 Entering Username in Swaglab for 3th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:38 Entering Password in Swaglab for 3th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:40 Clicking Login Button in Swaglab for 3th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:73 Actual Login Pass
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:74 Writing Actual Login as Fail in Excel File for 3th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:87 Expected Login Fail
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:88 Updating TestCase_Status_List as Pass
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:90 Taking Pass Screenshot
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:96 TestCase_Status_List ['Pass']
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:28 Opening Browser and Navigating to SwagLab
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:30 Fetching Username from Excel File for 4th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:32 Fetching Password from Excel File for 4th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:34 Fetching Expected Result from Excel File for 4th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:36 Entering Username in Swaglab for 4th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:38 Entering Password in Swaglab for 4th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:40 Clicking Login Button in Swaglab for 4th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:73 Actual Login Pass
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:74 Writing Actual Login as Fail in Excel File for 4th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:87 Expected Login Fail
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:88 Updating TestCase_Status_List as Pass
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:90 Taking Pass Screenshot
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:96 TestCase_Status_List ['Pass']
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:28 Opening Browser and Navigating to SwagLab
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:30 Fetching Username from Excel File for 5th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:32 Fetching Password from Excel File for 5th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:34 Fetching Expected Result from Excel File for 5th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:36 Entering Username in Swaglab for 5th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:38 Entering Password in Swaglab for 5th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:40 Clicking Login Button in Swaglab for 5th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:73 Actual Login Pass
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:74 Writing Actual Login as Fail in Excel File for 5th row
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:87 Expected Login Fail
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:88 Updating TestCase_Status_List as Pass
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:90 Taking Pass Screenshot
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:96 TestCase_Status_List ['Pass']
+[32mINFO    [0m Test_SwagLogin_Excel:test_SwagLogin_DDT_Excel.py:103 test_Login_TC01 Test Case is Completed

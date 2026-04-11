@@ -14,6 +14,7 @@ class Test_SwagLogin:
     # Password = readconfig.getPassword()
     log = Loggen.log_generator()
 
+    @pytest.mark.ddtparams
     def test_login_TC01(self,setup,DataForLogin):
         self.log.info("test_login_TC01 Test Case started")
         self.log.info("Opening webbrowser and Navigating to Swag Labs")
